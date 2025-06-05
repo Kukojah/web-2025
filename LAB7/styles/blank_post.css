@@ -1,0 +1,101 @@
+.post_header{
+    width: 600px;
+    height: 50px;
+}
+
+.user_icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px;
+    float: left;
+}
+
+.edit_icon{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    float: right;
+}
+
+.edit_icon:hover{
+    opacity: 0.66;
+}
+
+.user_nickname{
+    font: 500 16px/1 "GolosUI", sans-serif;
+    margin: 17px 0px 17px 0px;
+    float: left;
+}
+
+.post_image_section{
+    width: 600px;
+}
+
+.post_image{
+    width: 600px;
+    height: 600px;
+}
+
+.image_count{
+    font: 500 14px/1 "GolosUI", sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 3px;
+    border-radius: 10px;
+    opacity: 0.66;
+    position: relative;
+    bottom: 600px;
+    left:550px;
+}
+
+.arrow_right{
+    width: 30px;
+    height: 30px;
+    opacity: 0.66;
+    position: relative;
+    bottom: 330px;
+    left: 520px;
+}
+
+.like_button{
+    font: 500 14px/1 "GolosUI", sans-serif;
+    height: 30px;
+    background-color: #BBBBBB;
+    border: 0px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.like_button:hover{
+    opacity: 0.66;
+}
+
+.like_image{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+.like_count{
+    margin-top: 5px;
+    float: left;
+}
+
+.post_text{
+    font: 500 15px/1.14 "GolosUI", sans-serif;
+    width: 600px;
+    height: auto;
+    overflow: hidden;
+    text-align: justify;
+}
+
+.show_more_text_button{
+    font: 500 15px/1.14 "GolosUI", sans-serif;
+    color: #999999;
+}
+
+.time_passed_since_posting{
+    font: 500 15px/1.14 "GolosUI", sans-serif;
+    color: #BBBBBB;
+}

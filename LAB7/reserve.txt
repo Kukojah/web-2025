@@ -1,0 +1,13 @@
+<?php
+            foreach($posts as $value){
+                if ($value['poster_id'] == $USERID) {
+                    $POSTID=$value['id'];
+                    foreach($value['post_images'] as $key => $imagenum){
+                        $ImageNumber=$key;
+                        include 'blank_image.php';
+                    }
+                }
+            }
+
+            
+        ?>

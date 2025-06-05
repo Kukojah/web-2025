@@ -1,0 +1,62 @@
+body {
+    position: fixed;
+}
+
+.header {
+    font: 700 140px/1.28 "GolosUI", sans-serif;
+    color:#222222;
+    letter-spacing: -1.5px;
+    margin-left: 180px;
+    margin-top: 180px;
+}
+
+.greeting_image {
+    width: 462px;
+    height: 501px;
+    position: relative;
+    bottom: 160px;
+    left: 280px;
+    z-index: -1;
+}
+
+.login_form{
+    position: relative;
+    bottom: 500px;
+    left: 800px;
+}
+
+.input_field_label {
+    font: 400 15px/1.28 "GolosUI", sans-serif;
+    color:#222222;
+    margin: 0px
+}
+
+.input_field{
+    width: 322px;
+    height: 24px;
+    padding: 10px;
+    border-radius: 6px;
+    border: 0px;
+    background-color:#EEEEEE;
+}
+
+.input_field_extra_info{
+    font: 500 13px/1.28 "GolosUI", sans-serif;
+    color: #AAAAAA;
+}
+
+.input_button{
+    font: 500 16px/1.28 "GolosUI", sans-serif;
+    width: 343px;
+    height: 48px;
+    border-radius: 6px;
+    padding: 10px 0px;
+    border: 0px;
+    margin: 10px 0px 10px 0px;
+    background-color: #000000;
+    color: #FFFFFF
+}
+
+.input_button:hover{
+    background-color: #888888;
+}

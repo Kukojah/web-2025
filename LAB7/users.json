@@ -1,0 +1,31 @@
+[
+    {
+        "id" : 0,
+        "name" : "Ваня Денисов",
+        "profile_pic" : "images/icon.jpg",
+        "profile_description" : "Привет! Я системный аналитик в ACME :) Тут моя жизнь только для самых классных!",
+        "posts_amount" : 4,
+        "password" : "23fge<=s",
+        "mail" : "CoolProgrammer@mail.ru"
+    },
+
+    {
+        "id" : 1,
+        "name" : "Лиза Дёмина",
+        "profile_pic" : "images/icon2.jpg",
+        "profile_description" : "Молодая девушка из Самары, которая лююит фотографию и чтение",
+        "posts_amount" : 3,
+        "password" : "123456",
+        "mail" : "WritingLover@mail.ru"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Илья Долгополов",
+        "profile_pic" : "images/icon3.jpg",
+        "profile_description" : "Ютуберист, программист, Художист, Россиянист, Блогерист и т. д. Ссылка на канал https://youtube.com/@DisKKJ",
+        "posts_amount" : 5,
+        "password" : "IWillEatYourFirstBorn",
+        "mail" : "NotJokingbtw@mail.ru"
+    }
+]
